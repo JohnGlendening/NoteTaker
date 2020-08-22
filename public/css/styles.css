@@ -91,6 +91,7 @@ html, body {
 
 .list-container .list-group-item {
   border-left: none;
+  color: black;
   border-right: none;
   padding: 20px;
   cursor: pointer;
