@@ -85,6 +85,7 @@ body {
 .list-container .list-group-item:first-child,
 .list-container .card {
     border-top: none;
+    color: #000000;
     border-top-right-radius: 0;
     border-top-left-radius: 0;
 }
